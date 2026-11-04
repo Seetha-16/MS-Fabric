@@ -17,7 +17,7 @@ The primary objective is to understand and implement how raw transactional data 
 - Use Dataflows Gen2 for low-code data transformation.
 - Use PySpark Notebooks for code-based data processing and aggregations.
 - Create curated Delta tables.
-- Load staging data into Fact and Dimension tables using T-SQL.
+- Load  data into Fact and Dimension tables using T-SQL.
 - Build the Data Warehouse on top of the Lakehouse staging layer.
   
 **Phase 3 – Semantic Modeling**
